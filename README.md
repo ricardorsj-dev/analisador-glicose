@@ -9,7 +9,8 @@
 O **Glucose Analyzer** é um projeto desenvolvido com foco em lógica de programação e boas práticas em Python.
 Ele simula uma análise simples de níveis de glicose e sugere quais alimentos são recomendados ou não, com base no percentual de açúcar.
 
----
+---<img width="1536" height="1024" alt="imagem projeto glicose" src="https://github.com/user-attachments/assets/c5469a96-9d81-4afc-9c4c-1902d9124169" />
+
 
 ## 🎯 Objetivos
 
